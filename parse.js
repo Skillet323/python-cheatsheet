@@ -20,7 +20,7 @@
 //
 // It is also advisable to add a Bash script into .git/hooks directory, that will
 // run this script before every commit. It should be named 'pre-commit' and it
-// should contain the following line: `./parse.js`.
+// should contain the following lines: `./parse.js`.
 
 
 const fs = require('fs');
